@@ -1,7 +1,7 @@
 # RaspberryPi
 
 ###  블루투스 기능 생성
-#### [참고링크](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+#### [참고링크](http://blog.naver.com/PostView.nhn?blogId=icbanq&logNo=221658773541&categoryNo=78&parentCategoryNo=0)
 ```
 //블루투스 라이브러리 설치
 sudo apt-get update
