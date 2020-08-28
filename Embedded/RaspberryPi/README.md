@@ -23,5 +23,5 @@ default-agent
 exit
 ```
 
-mySQL설치
+### mySQL설치
 #### [mySQL 참고링크](https://pimylifeup.com/raspberry-pi-mysql/)
