@@ -14,5 +14,3 @@ while True:
 print ("Finished")
 
 client_socket.close()
-
-
